@@ -1,2 +1,2 @@
-# Lista-de-Recupera-o
+# Lista-de-Recuperação
 Lógica de Programação
